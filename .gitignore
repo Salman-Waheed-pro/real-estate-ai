@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+Thumbs.db
+data/raw/*.csv
+data/processed/*
+!data/processed/.gitkeep
+models/*.pkl
